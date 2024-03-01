@@ -1,0 +1,14 @@
+C:\Users\davil\source\repos\ProdutosTest\ProdutosTest\bin\Debug\net8.0\ProdutosTest.exe
+C:\Users\davil\source\repos\ProdutosTest\ProdutosTest\bin\Debug\net8.0\ProdutosTest.deps.json
+C:\Users\davil\source\repos\ProdutosTest\ProdutosTest\bin\Debug\net8.0\ProdutosTest.runtimeconfig.json
+C:\Users\davil\source\repos\ProdutosTest\ProdutosTest\bin\Debug\net8.0\ProdutosTest.dll
+C:\Users\davil\source\repos\ProdutosTest\ProdutosTest\bin\Debug\net8.0\ProdutosTest.pdb
+C:\Users\davil\source\repos\ProdutosTest\ProdutosTest\obj\Debug\net8.0\ProdutosTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davil\source\repos\ProdutosTest\ProdutosTest\obj\Debug\net8.0\ProdutosTest.AssemblyInfoInputs.cache
+C:\Users\davil\source\repos\ProdutosTest\ProdutosTest\obj\Debug\net8.0\ProdutosTest.AssemblyInfo.cs
+C:\Users\davil\source\repos\ProdutosTest\ProdutosTest\obj\Debug\net8.0\ProdutosTest.csproj.CoreCompileInputs.cache
+C:\Users\davil\source\repos\ProdutosTest\ProdutosTest\obj\Debug\net8.0\ProdutosTest.dll
+C:\Users\davil\source\repos\ProdutosTest\ProdutosTest\obj\Debug\net8.0\refint\ProdutosTest.dll
+C:\Users\davil\source\repos\ProdutosTest\ProdutosTest\obj\Debug\net8.0\ProdutosTest.pdb
+C:\Users\davil\source\repos\ProdutosTest\ProdutosTest\obj\Debug\net8.0\ProdutosTest.genruntimeconfig.cache
+C:\Users\davil\source\repos\ProdutosTest\ProdutosTest\obj\Debug\net8.0\ref\ProdutosTest.dll

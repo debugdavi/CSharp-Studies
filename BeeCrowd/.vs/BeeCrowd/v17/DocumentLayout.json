@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\davil\\source\\repos\\BeeCrowd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56B99462-94A0-4B7E-9AE9-A92981A64AFF}|BeeCrowd\\BeeCrowd.csproj|c:\\users\\davil\\source\\repos\\beecrowd\\beecrowd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B99462-94A0-4B7E-9AE9-A92981A64AFF}|BeeCrowd\\BeeCrowd.csproj|solutionrelative:beecrowd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B99462-94A0-4B7E-9AE9-A92981A64AFF}|BeeCrowd\\BeeCrowd.csproj|c:\\users\\davil\\source\\repos\\beecrowd\\beecrowd\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B99462-94A0-4B7E-9AE9-A92981A64AFF}|BeeCrowd\\BeeCrowd.csproj|solutionrelative:beecrowd\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\davil\\source\\repos\\BeeCrowd\\BeeCrowd\\Program.cs",
+              "RelativeDocumentMoniker": "BeeCrowd\\Program.cs",
+              "ToolTip": "C:\\Users\\davil\\source\\repos\\BeeCrowd\\BeeCrowd\\Program.cs",
+              "RelativeToolTip": "BeeCrowd\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAwBYAAAB8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-14T12:11:40.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Triangulo.cs",
+              "DocumentMoniker": "C:\\Users\\davil\\source\\repos\\BeeCrowd\\BeeCrowd\\Triangulo.cs",
+              "RelativeDocumentMoniker": "BeeCrowd\\Triangulo.cs",
+              "ToolTip": "C:\\Users\\davil\\source\\repos\\BeeCrowd\\BeeCrowd\\Triangulo.cs",
+              "RelativeToolTip": "BeeCrowd\\Triangulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T17:27:50.673Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
